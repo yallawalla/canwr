@@ -1,0 +1,5 @@
+Name: canwr
+Description: 
+Version: 0.1
+Libs: -L"/home/ubuntu/Projects/canwr/canwr/bin/Debug" -lcanwr
+Cflags: -I"/home/ubuntu/Projects/canwr/canwr"
